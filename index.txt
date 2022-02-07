@@ -1,0 +1,4 @@
+<h1> Hello Prashant !! Welcome to simple DevOps project !!! </h1>
+<h2> By Mr.Prashant from Sakoli </h2>
+<h2> It's time to start the Devops project !! Get ready !! </h2>
+<h2> This is what complete End-End CI-CD pipeline DecOps Project !! </h2>
